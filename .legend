@@ -1,0 +1,12 @@
+The game works with a map of 3 vertical boxes: 
+00000000000000000000000000000000
+00000000000000000000000000000000
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+On the first line it is possible to put only one number 1,
+On the second line it is possible to put the number 1 and 2 and 3,
+the 3rd line represents the floor of the game.
+
+1 = crow
+2 = cactuce
+3 = end of game portal
