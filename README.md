@@ -1,5 +1,3 @@
-Certainly! Here's the information translated into English:
-
 # My Runner - Finite Endless Running Game
 
 ## Overview
@@ -11,8 +9,6 @@ Certainly! Here's the information translated into English:
 ## Repository Information
 
 - **Binary Name:** `my_runner`
-- **Repository Name:** `MUL_my_runner_$ACADEMIC_YEAR`
-- **Repository Rights:** `ramassage-tek`
 - **Language:** C
 - **Compilation:** via Makefile, including `re`, `clean`, and `fclean` rules
 
@@ -114,3 +110,11 @@ Legend:
 - `1` = Crow
 - `2` = Cactuce
 - `3` = End of Game Portal
+
+## Images
+
+![menu](images/menu.png)
+
+![levels](images/levels.png)
+
+![pause](images/pause.png)
