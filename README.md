@@ -12,9 +12,8 @@
 - **Language:** C
 - **Compilation:** via Makefile, including `re`, `clean`, and `fclean` rules
 
-## Requirements
+## Fonctionnalités
 
-### Must-Have Features
 - **Window Closing:** The window must be closed using events.
 - **Keyboard Input:** The program must manage input from the keyboard.
 - **Animated Sprites:** The program must contain animated sprites rendered using sprite sheets.
@@ -25,25 +24,19 @@
 - **Game End:** The program must have an end condition, either a victory or a defeat.
 - **Basic Physics:** The program must handle basic game physics (jumping, falling, hitting a wall).
 - **Sound Effects:** The program must have at least one music track and one sound effect.
-
-### Should-Have Features
 - **Random Enemies:** The program should have randomly spawning enemies.
 - **Consistent Animations:** Animations and movements should not depend on the computer's speed and should be timed using `sfClock` elements.
 - **Window Size:** The window should be between 800x600 pixels and 1920x1080 pixels.
 - **Frame Rate:** The window should have a limited frame rate to prevent lag.
 - **Help Option:** The program should accept the `-h` option to display usage information.
 - **User Interactions:** Possible user interactions should be explicitly explained in the usage.
-
-### Could-Have Features
 - **Multiple Levels:** The program could have several different levels.
 - **Main Menu:** The program could have a main menu.
 - **Pause Menu:** The program could have a pause menu.
 - **High Scores:** The program could store the highest score achieved.
 - **Infinite Mode:** The program could have an infinite mode where the map is generated randomly until the player dies.
-- **Character Customization:** The program could allow the user to customize their character.
-- **Bonus/Malus:** The program could include bonuses and maluses that affect the player's score or abilities.
 
-The `.legend` file at the root of your repository should describe the map formatting.
+The `.legend` file at the root of your repository describe the map formatting.
 
 ## Usage
 
