@@ -36,7 +36,7 @@
 - **High Scores:** The program could store the highest score achieved.
 - **Infinite Mode:** The program could have an infinite mode where the map is generated randomly until the player dies.
 
-The `.legend` file at the root of your repository describe the map formatting.
+The `.legend` file at the root describe the map formatting.
 
 ## Usage
 
