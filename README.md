@@ -111,7 +111,7 @@ Legend:
 - `2` = Cactuce
 - `3` = End of Game Portal
 
-## Images
+### Images:
 
 ![menu](images/menu.png)
 
